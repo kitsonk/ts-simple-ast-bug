@@ -1,0 +1,11 @@
+{
+  "name": "ts-simple-ast-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ts-simple-ast": "^16.0.2",
+    "typescript": "3.0.3"
+  }
+}
